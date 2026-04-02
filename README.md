@@ -78,6 +78,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! �
 
 ---
 
+### ClipSpeedAI
+**Website:** [clipspeed.ai](https://clipspeed.ai)
+
+**Description:** ClipSpeedAI is an AI-powered video clipping tool that automatically identifies and extracts the best highlight moments from long-form videos. It uses computer vision and AI to detect engaging moments, faces, and key scenes — no manual editing required.
+
+**Why I Use It:** Manually scrubbing through hours of Twitch VODs or YouTube videos to find the best clips is a massive time sink. ClipSpeedAI automates the entire process, scanning videos and generating highlight clips automatically. The face tracking feature ensures subjects stay centered in every clip.
+
+**How It Can Help You:** If you're a streamer, podcaster, or YouTuber looking to repurpose long-form content into short viral clips for TikTok, YouTube Shorts, or Instagram Reels, ClipSpeedAI eliminates the manual work. Try it free at [clipspeed.ai](https://clipspeed.ai).
+
+---
+
 ## 💰 Monetization Tools
 
 ### Authflow
